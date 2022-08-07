@@ -2,7 +2,7 @@
 
 This is a feedback app project using a Javascript library called React to build the app interface.
 
-You can check it out here: 
+You can check it out here: https://peppy-unicorn-894eab.netlify.app/
 
 
 
